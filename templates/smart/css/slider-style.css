@@ -1,0 +1,54 @@
+.slider {
+	height:392px;
+	width:1005px;
+	margin:0 auto;
+	position:relative;
+	z-index:1;
+}
+.items {
+	display:none;
+}
+
+.banner {
+	height:200px;
+	width:320px;
+	overflow:hidden;
+	position:absolute;
+	left:665px;
+	top:100px;
+	z-index:99;
+}
+
+.title-1 {
+	display:block;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:30px;
+	line-height:1.2em;
+	color:#fff;
+	font-weight:normal;
+	margin-bottom:5px;
+}
+.title-2 {
+	display:block;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:18px;
+	line-height:1.2em;
+	color:#ccfaff;
+	text-transform:uppercase;
+	margin-bottom:12px;
+}
+	
+.pagination {position:absolute; top:13px; right:45px; z-index:999;}
+.pagination li {
+	float:left;
+	padding:0 3px 0 0;
+}
+	.pagination li a {
+		display:block;
+		width:28px;
+		height:28px;
+		text-indent:-5000px;
+		background:url(../images/slider-pagination.png) left top no-repeat;
+	}
+		.pagination li a:hover,
+		.pagination li.current a {background-position:left bottom;}
