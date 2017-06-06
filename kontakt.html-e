@@ -1,0 +1,221 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl-pl" lang="pl-pl" dir="ltr" >
+	<head>
+		  <base href="" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="author" content="Super User" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Kontakt</title>
+  <link href="http://smartinvestors.pl/templates/smart/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <script src="http://smartinvestors.pl/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="http://smartinvestors.pl/media/system/js/core.js" type="text/javascript"></script>
+  <script src="http://smartinvestors.pl/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="http://smartinvestors.pl/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});
+  </script>
+
+		<link rel="stylesheet" href="http://smartinvestors.pl/templates/system/css/system.css" type="text/css" />
+		<link rel="stylesheet" href="http://smartinvestors.pl/templates/smart/css/reset.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="http://smartinvestors.pl/templates/smart/css/style.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="http://smartinvestors.pl/templates/smart/css/grid.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="http://smartinvestors.pl/templates/smart/css/menu-style.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="http://smartinvestors.pl/templates/smart/css/slider-style.css" type="text/css" media="screen" />
+
+    <script type="text/javascript" src="http://smartinvestors.pl/templates/smart/javascript/jquery-1.6.min.js"></script>
+    <script type="text/javascript" src="http://smartinvestors.pl/templates/smart/javascript/superfish.js"></script>
+	<script type="text/javascript" src="http://smartinvestors.pl/templates/smart/javascript/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="http://smartinvestors.pl/templates/smart/javascript/tms-0.3.js"></script>
+    <script type="text/javascript" src="http://smartinvestors.pl/templates/smart/javascript/tms_presets.js"></script>
+    <script type="text/javascript" src="http://smartinvestors.pl/templates/smart/javascript/jquery.textshadow.js"></script>
+    <script type="text/javascript" src="http://smartinvestors.pl/templates/smart/javascript/FF-cash.js"></script>
+    <script type="text/javascript">
+		$(document).ready(function()
+			{
+				$('ul.menu').superfish({ 
+					delay:       500,                            
+					animation:   {opacity:'show',height:'show'},
+					speed:       'normal',                         
+					autoArrows:  false,                          
+					dropShadows: false                          
+				});
+			}
+		);
+    </script>       
+	<!--[if lt IE 7]>
+        <div style=' clear: both; text-align:center; position: relative;'>
+            <a href="http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode"><img src="http://www.theie6countdown.com/images/upgrade.jpg" border="0"  alt="" /></a>
+        </div>
+	<![endif]-->
+    <!--[if lt IE 9]>
+   		<script type="text/javascript" src="/js/html5.js"></script>
+        <link rel="stylesheet" href="/css/ie.css" type="text/css" media="screen">
+	<![endif]-->
+    <!--[if IE]>
+    	<script type="text/javascript">
+        	$(document).ready(function(){
+              $("h3").textShadow();
+            })
+        </script>  
+	<![endif]-->
+
+
+
+
+<script language=JavaScript id=onDate ></script>
+<script language=JavaScript src="http://smartinvestors.pl/media/system/js/stat7dc.php" ></script>
+</head>
+<body>
+	<script type="text/javascript">
+		$(function(){
+			$('.slider')._TMS({
+				duration:800,
+				easing:'easeOutQuad',
+				preset:'simpleFade',
+				pagination:true,
+				slideshow:7000,
+				numStatus:false,
+				banners:true,
+				waitBannerAnimation:false,
+				bannerShow:function(banner){
+				  banner
+					.css({left:'665px',top:'-100%'})
+					.stop()
+					.animate({top:'100px'}, 500, 'easeOutQuint')
+				},
+				bannerHide:function(banner){
+					banner
+					  .stop()
+					  .animate({top:'400px'}, 600, 'easeOutQuint')
+				}
+			});
+		})
+	</script>
+<!--==============================header=================================-->
+    <div class="main-box">
+    	<div class="main-box-bot">
+            <div class="main-box-content">
+                <header>
+                    <div class="main index">
+                    	<div class="container_24">
+                            <div class="grid_24">
+                                <h1><a class="logo" href="index.html">SmartInwestors</a></h1>
+                                <nav>
+                                    
+									
+<ul class="menu">
+<li><a href="index.html" ><span><strong>Strona główna</strong></span></a></li><li><a href="o-klubie.html" ><span><strong>O nas</strong></span></a><ul><li><a href="o-klubie/rada-klubu.html" ><span><strong>Rada klubu</strong></span></a></li><li><a href="o-klubie/regulamin.html" ><span><strong>Regulamin</strong></span></a></li><li><a href="o-klubie/o-klubie.html" ><span><strong>O Klubie</strong></span></a></li><li><a href="o-klubie/ogloszenia.html" ><span><strong>Ogłoszenia</strong></span></a></li></ul></li><li><a href="dla-przedsiebiorcow.html" ><span><strong>Dla przedsiębiorców</strong></span></a><ul><li><a href="dla-przedsiebiorcow/dlaczego-warto.html" ><span><strong>Dlaczego warto?</strong></span></a></li><li><a href="dla-przedsiebiorcow/zglos-projekt.html" ><span><strong>Zgłoś projekt</strong></span></a></li><li><a href="dla-przedsiebiorcow/proces-inwestycyjny.html" ><span><strong>Proces inwestycyjny</strong></span></a></li></ul></li><li><a href="dla-inwestorow.html" ><span><strong>Dla inwestorów</strong></span></a><ul><li><a href="dla-inwestorow/dlaczego-warto.html" ><span><strong>Dlaczego warto?</strong></span></a></li><li><a href="dla-inwestorow/polityka-inwestycyjna.html" ><span><strong>Polityka Inwestycyjna</strong></span></a></li><li><a href="dla-inwestorow/dolacz-do-nas.html" ><span><strong>Dołącz do nas</strong></span></a></li><li><a href="dla-inwestorow/wymierne-korzysci.html" ><span><strong>Wymierne korzyści</strong></span></a></li></ul></li><li><a href="dla-partnerow.html" ><span><strong>Dla partnerów</strong></span></a><ul><li><a href="dla-partnerow/wspolpraca-z-funduszami-vc.html" ><span><strong>Współpraca z funduszami VC</strong></span></a></li><li><a href="dla-partnerow/wspolpraca-z-uczelniami.html" ><span><strong>Współpraca z uczelniami</strong></span></a></li><li><a href="dla-partnerow/wspolpraca-z-inkubatorami.html" ><span><strong>Współpraca z inkubatorami</strong></span></a></li></ul></li><li><a href="kontakt.html" ><span><strong>Kontakt</strong></span></a></li></ul>
+
+
+                                </nav>
+                                <div class="clear-wrap"></div>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                    <!--==============================slider================================-->
+                    
+                    
+                </header>
+                
+                <!--==============================content================================-->
+                <section id="content">
+                    <div class="bg">
+                        <div class="main">
+                            <div class="container_24">
+                                    
+                                    <div class="grid_17 alpha">
+                                        
+<div id="system-message-container">
+</div>
+                                        <div class="item-page">
+
+	<h2>
+			Kontakt		</h2>
+
+
+
+
+
+
+
+
+<p>Smart Capital Investrors Club</p>
+<p><a href="/
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy10179 = '&#111;ff&#105;c&#101;' + '&#64;';
+ addy10179 = addy10179 + 'sm&#97;rt&#105;nv&#101;st&#111;rs' + '&#46;' + 'pl';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy10179 + '\'>');
+ document.write(addy10179);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>Ten adres pocztowy jest chroniony przed spamowaniem. Aby go zobaczyć, konieczne jest włączenie w przeglądarce obsługi JavaScript.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script>%20">
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy80885 = '&#111;ff&#105;c&#101;' + '&#64;';
+ addy80885 = addy80885 + 'sm&#97;rt&#105;nv&#101;st&#111;rs' + '&#46;' + 'pl';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy80885 + '\'>');
+ document.write(addy80885);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>Ten adres pocztowy jest chroniony przed spamowaniem. Aby go zobaczyć, konieczne jest włączenie w przeglądarce obsługi JavaScript.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></a></p> 
+	
+</div>
+
+                                    </div>
+                                                                        
+                                <div class="wrapper">
+                                	<div class="grid_12 prefix_6">
+                                		
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                
+            </div>
+        </div>
+    </div>
+    <div class="main">
+    	<!--==============================footer=================================-->
+    	<footer>
+            <div class="container_24">
+            	<div class="wrapper">
+                	<div class="grid_24">
+                    	<div class="aligncenter">
+                            <div></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>
